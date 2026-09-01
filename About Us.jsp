@@ -4,7 +4,8 @@
 <%@ page import="com.mus.entity.UserEntity"%>
 <!DOCTYPE html>
 <html>
-
+<head>
+<title>About BloodConnect</title>
 
 <style>
     :root{
